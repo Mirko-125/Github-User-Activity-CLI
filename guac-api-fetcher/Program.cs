@@ -1,6 +1,4 @@
-﻿using System;
-using System.Text.Json;
-using System.Threading.Tasks;
+﻿using System.Text.Json;
 
 namespace GUAC
 {
@@ -24,7 +22,7 @@ namespace GUAC
             try
             {
                 HttpResponseMessage response = await client.GetAsync(url);
-                if (!(response.IsSuccessStatusCode))
+                if (!response.IsSuccessStatusCode)
                 {
                     Console.WriteLine($"Failed to fetch activity for user '{username}'. HTTP Status: {response.StatusCode}");
                     return;
