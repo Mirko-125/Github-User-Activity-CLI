@@ -16,4 +16,4 @@ The application should run from the command line, accept the GitHub username as 
 - Fetch the recent activity of the specified GitHub user using the GitHub API. You can use the following endpoint to fetch the user’s activity: 
 - Display the fetched activity in the terminal. 
 
-This project followed and completed the tasks from [this](https://roadmap.sh/projects/task-tracker) part of a roadmap.
+This project followed and completed the tasks from [this](https://roadmap.sh/projects/github-user-activity) part of a roadmap.
