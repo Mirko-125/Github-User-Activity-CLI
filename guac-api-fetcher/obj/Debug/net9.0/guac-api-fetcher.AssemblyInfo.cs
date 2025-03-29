@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("guac-api-fetcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91d3c3940c1af1bef0c24dfc66ed0816e86dd709")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+333713205693b8f5475db47c66425cb6df42063e")]
 [assembly: System.Reflection.AssemblyProductAttribute("guac-api-fetcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("guac-api-fetcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
